@@ -1,0 +1,17 @@
+Django>=4.2,<5.0
+gunicorn
+psycopg2-binary
+dj-database-url
+whitenoise
+python-dotenv
+django-allauth
+Pillow
+django-crispy-forms
+crispy-bootstrap5
+django-widget-tweaks
+django-environ
+plotly
+django-plotly-dash
+requests
+PyJWT
+cryptography>=41.0.0
